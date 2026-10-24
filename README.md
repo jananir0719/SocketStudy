@@ -37,11 +37,16 @@ To perform a study on Socket Programming
 •	They then listen for incoming connections with listen() and accept connections with accept().
 •	Once a connection is establi
 •	shed, servers can send and receive data using send() and recv().
+<img width="672" height="405" alt="Screenshot 2026-10-17 083205" src="https://github.com/user-attachments/assets/642fd05c-1436-4c85-a554-bd8b5b12ef9a" />
+
 
 ## Client –Server Operations
 
 Clients create a socket using socket() and connect to a server using connect().
 After establishing a connection, clients can send and receive data using send() and recv().
+
+<img width="678" height="502" alt="Screenshot 2026-10-17 083227" src="https://github.com/user-attachments/assets/19aa57fc-42ba-4b69-b195-b5d2e3d6be4d" />
+
 
 ## Use Cases of Socket Programming:
 Socket programming finds applications in various domains, including web development, file transfer protocols, online gaming, and real-time communication. It is the foundation for protocols like HTTP, FTP, and SMTP, which power the internet. Socket programming enables the development of both server and client applications, facilitating the exchange of information between devices in a networked environment.
@@ -54,5 +59,9 @@ Socket programming finds applications in various domains, including web developm
 5.	RPC mechanisms: which allow processes to execute code on a remote server, often use socket programming for communication.
 
 
+
 ## Result:
+
+<img width="686" height="117" alt="Screenshot 2026-10-17 083135" src="https://github.com/user-attachments/assets/d58c4689-f2d4-4f6f-9390-b07d5c11390b" />
+
 Thus the study of Socket Programming Completed Successfully
