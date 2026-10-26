@@ -39,6 +39,8 @@ To perform a study on Socket Programming
 •	shed, servers can send and receive data using send() and recv().
 <img width="672" height="405" alt="Screenshot 2026-10-17 083205" src="https://github.com/user-attachments/assets/642fd05c-1436-4c85-a554-bd8b5b12ef9a" />
 
+<img width="632" height="420" alt="Screenshot 2026-10-17 083557" src="https://github.com/user-attachments/assets/83a22c8b-da10-4037-9214-7bc5d9aa2f31" />
+
 
 ## Client –Server Operations
 
@@ -46,6 +48,7 @@ Clients create a socket using socket() and connect to a server using connect().
 After establishing a connection, clients can send and receive data using send() and recv().
 
 <img width="678" height="502" alt="Screenshot 2026-10-17 083227" src="https://github.com/user-attachments/assets/19aa57fc-42ba-4b69-b195-b5d2e3d6be4d" />
+<img width="717" height="502" alt="Screenshot 2026-10-17 083539" src="https://github.com/user-attachments/assets/ffe8eca2-1cb9-49ee-b7fe-9b4d9b287334" />
 
 
 ## Use Cases of Socket Programming:
@@ -63,5 +66,7 @@ Socket programming finds applications in various domains, including web developm
 ## Result:
 
 <img width="686" height="117" alt="Screenshot 2026-10-17 083135" src="https://github.com/user-attachments/assets/d58c4689-f2d4-4f6f-9390-b07d5c11390b" />
+
+<img width="860" height="257" alt="Screenshot 2026-10-17 083527" src="https://github.com/user-attachments/assets/ae5e7040-51ac-4b37-81b0-1d3a4c9f5fe3" />
 
 Thus the study of Socket Programming Completed Successfully
